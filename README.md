@@ -1,7 +1,9 @@
-data.gov
-========
-
-Scripts to explore different types of data available on data.gov
+##Adding data source to this project.
+The folder "data_set" should be used as a template.
+* Make a copy of the data_set folder.
+* Add the data files to the data folder.
+* Add any scripts to the src folder.
+* Fill out the README.md file information
 
 ##Project Gutenberg
 http://www.gutenberg.org/cdproject/pgdvd042010.iso.torrent
