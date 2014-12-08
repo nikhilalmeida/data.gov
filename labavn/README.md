@@ -1,5 +1,4 @@
-##Name of Data Set
-Los Angeles Business Assistance Virtual Network
+##Los Angeles Business Assistance Virtual Network
 
 ##Description
 This website is intended to help business find govt. contracts and orders.
