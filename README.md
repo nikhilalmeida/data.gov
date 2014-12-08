@@ -31,3 +31,6 @@ https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
 http://jacquesmattheij.com/Free+Public+Data+Sets
 http://rs.io/100-interesting-data-sets-for-statistics/
 http://www.datawrangling.com/some-datasets-available-on-the-web/
+
+
+[Python (Pandas and Bokeh) for accessing Socrata's API ](http://dev.socrata.com/consumers/examples/data-visualization-with-python.html)
