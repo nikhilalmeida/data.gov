@@ -33,6 +33,17 @@ few KB at the max
 ...
 
 
+###Library Monthly Stats
+####|  Month  | Total Library Visitors | Total Library Programs | Total Program Attendees | Total Volunteer Hours | Total Web Visits | Total eMedia Circulation | Total WiFi Sessions | Total Reservation PC Sessions  |
+|  Jul-13     | 1279061                | 2138                   | 51955                   | 18876                 | 2026211          | 171332                   | 102743              | 233626                         |
+|  Aug-13     | 1223571                | 1534                   | 29875                   | 14415                 | 1991667          | 180508                   | 133975              | 237780                         |
+|  Sep-13     | 1282431                | 1556                   | 27211                   | 13282                 | 1840740          | 171245                   | 130248              | 211232                         |
+|  Oct-13     | 1272628                | 1805                   | 44336                   | 14633                 | 1826659          | 180297                   | 132142              | 198666                         |
+|  Nov-13     | 1055041                | 1535                   | 28068                   | 12905                 | 1684896          | 159134                   | 115380              | 189724                         |
+|  Dec-13     | 997687                 | 1312                   | 22564                   | 10798                 | 1624957          | 178994                   | 111224              | 189853                         |
+|  Jan-14     | 1092965                | 1567                   | 23581                   | 12634                 | 1884707          | 203037                   | 124704              | 204878                         |
+
+
 ##Links
 [Library Open Data](https://data.lacity.org/profile/Library-OpenData/ysts-hp3n)
 [Library Branches](https://data.lacity.org/A-Livable-and-Sustainable-City/Library-Branches/a4nt-4gca)
