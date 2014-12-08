@@ -34,3 +34,11 @@ http://www.datawrangling.com/some-datasets-available-on-the-web/
 
 
 [Python (Pandas and Bokeh) for accessing Socrata's API ](http://dev.socrata.com/consumers/examples/data-visualization-with-python.html)
+
+[Countywise Building Outlines](http://egis3.lacounty.gov/dataportal/2011/04/28/countywide-building-outlines/)
+[LA County GIS Data Sources](http://egis3.lacounty.gov/dataportal/)
+[California Department of Transportation](http://www.dot.ca.gov/hq/tsip/gis/datalibrary/index.php)
+
+HN
+https://news.ycombinator.com/item?id=2165497
+https://news.ycombinator.com/item?id=2414614

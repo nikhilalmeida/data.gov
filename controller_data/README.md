@@ -16,6 +16,7 @@ City of Los Angeles' expenditures, revenues, payroll, special funds and more.
 ##Links
 [Purchasing E-Checkbook data](https://controllerdata.lacity.org/Purchasing/eCheckbook-Data/pggv-e4fn)
 [Glossary](http://www.controlpanel.la/cards/faq/#glossary)
+[Balance All City Funds](https://controllerdata.lacity.org/Audits-and-Reports/Balance-of-All-City-Funds/ej7u-di9z)
 
 ##Possible Usage
 *[Ideas on how the data can be possibly used.]*
